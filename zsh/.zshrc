@@ -47,6 +47,7 @@ alias sj="vim ~/journals/symfonyjournal.md"
 alias ls='exa -la --git --icons --group-directories-first'
 alias cat='bat'
 alias vim='nvim'
+alias us='update_stow'
 
 bindkey '^[[A' history-substring-search-up
 bindkey '^[[B' history-substring-search-down
